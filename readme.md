@@ -19,7 +19,7 @@ https://www.w3schools.com/git/git_branch_merge.asp
 7. GitHub Account OK
 https://www.w3schools.com/git/git_remote_getstarted.asp
 8. Git GitHub Edit Code OK 
-9. Git Pull from GitHub 
+9. Git Pull from GitHub OK
 10. Git Push to GitHub 
 11. Git GitHub Branch 
 12. Git Pull Branch from GitHub 
