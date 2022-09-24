@@ -20,9 +20,9 @@ https://www.w3schools.com/git/git_branch_merge.asp
 https://www.w3schools.com/git/git_remote_getstarted.asp
 8. Git GitHub Edit Code OK 
 9. Git Pull from GitHub OK
-10. Git Push to GitHub 
-11. Git GitHub Branch 
-12. Git Pull Branch from GitHub 
-12. Git Push Branch to GitHub
+10. Git Push to GitHub OK
+11. Git GitHub Branch OK
+12. Git Pull Branch from GitHub OK 
+12. Git Push Branch to GitHub OK
 13. Git GitHub Pagescd
 https://www.w3schools.com/git/git_remote_pages.asp?remote=github
